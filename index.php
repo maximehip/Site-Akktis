@@ -81,7 +81,7 @@ if (isset($_POST['formsend'])) {
     	Last Name
     </div>
     <div class="col-sm">
-    	Color
+    	Favorite Color
     </div>
   </div>
 </div>
